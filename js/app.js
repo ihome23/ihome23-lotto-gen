@@ -17,3 +17,5 @@ if(numbers[i] == number) return true;
 }
 return false;
 }
+// 정렬 기능 추가
+
